@@ -26,7 +26,7 @@ Key Features:
 ## Screenshot
 
 
-[CLICK-HERE](screencapture-127-0-0-1-5501-Develop-index-html-2023-11-20-20_17_45.png)
+[CLICK-HERE](https://github.com/JMcKenna01/9to5-Scheduler/blob/main/Assets/screencapture-127-0-0-1-5501-Develop-index-html-2023-11-20-20_17_45.png)
 
 ## Link to the Deployed Application
 
