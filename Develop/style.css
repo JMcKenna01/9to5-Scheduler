@@ -21,7 +21,7 @@ body {
   }
   
   .row {
-    border-top: 1px solid white;
+    border-top: 1px solid blue;
   }
   
   .hour {
@@ -53,8 +53,30 @@ body {
     color: white;
   }
   
+  .saveBtn:hover {
+    background-color: #048ba8;
+    color: #fff;
+    transition: background-color 0.3s ease;
+  }
+  
   .saveBtn i:hover {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
+  }
+
+  @media (max-width: 768px) {
+    .hour {
+      text-align: left;
+      padding-left: 15px;
+    }
+  
+    .description {
+      width: 100%;
+    }
+  
+    .saveBtn {
+      width: 100%;
+      border-radius: 0;
+    }
   }
   
