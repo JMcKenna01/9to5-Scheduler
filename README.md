@@ -30,7 +30,7 @@ Key Features:
 
 ## Link to the Deployed Application
 
-https://jmckenna01.github.io/Password-Generator-App/ 
+https://jmckenna01.github.io/9to5-Scheduler-App/
 
 
 ## Credits
