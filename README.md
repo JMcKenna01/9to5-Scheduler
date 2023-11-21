@@ -1,4 +1,4 @@
-# 9to5-Scheduler
+# 9to5-Scheduler-App
 
 ## Description
 
